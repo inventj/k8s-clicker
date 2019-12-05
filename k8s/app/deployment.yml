@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  namespace: clicker
+  labels:
+    app: clicker
+  name: clicker-app
+spec:
+  selector:
+    matchLabels:
+      app: clicker
+  replicas: 1
+  strategy:
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 0
+    type: RollingUpdate
+  template:
+    metadata:
+      labels:
+        app: clicker
+    spec:
+      containers:
+        - image: didjoeri/k8s-clicker-app
+          name: clicker
+          ports:
+            - containerPort: 80

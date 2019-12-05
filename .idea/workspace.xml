@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b54c9a9-46ab-4fb2-ab58-b06665b16fdd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/clicker-app/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker-app/src/components/Counter.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicker-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/clicker-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicker-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/clicker-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicker-app/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/clicker-app/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicker-app/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicker-app/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/clicker-app/src/main.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/clicker-app" />
+  </component>
+  <component name="ProjectId" id="1UYa7bZSFdNK4xvOjmrX2x7KGYC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/api" />
+      <recent name="$PROJECT_DIR$/app" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b54c9a9-46ab-4fb2-ab58-b06665b16fdd" name="Default Changelist" comment="" />
+      <created>1575535815830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575535815830</updated>
+      <workItem from="1575535818344" duration="4439000" />
+      <workItem from="1575559426665" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
